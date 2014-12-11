@@ -1,0 +1,5 @@
+endpoint: ctdmo-ghqr-sio_recovered
+instrument: ctdmo-ghqr-sio_recovered
+pairs:
+- [CTD15906.DAT, CTD15906.yml]
+resource: ctdmo_ghqr/sio/resource

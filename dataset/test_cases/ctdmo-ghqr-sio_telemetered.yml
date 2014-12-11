@@ -1,0 +1,5 @@
+endpoint: ctdmo-ghqr-sio_telemetered
+instrument: ctdmo-ghqr-sio_telemetered
+pairs:
+- [node59p1_3.ctdmo.dat, node59p1_3.ctdmo.yml]
+resource: ctdmo_ghqr/sio/resource

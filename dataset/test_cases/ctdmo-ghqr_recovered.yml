@@ -1,0 +1,5 @@
+endpoint: ctdmo-ghqr_recovered
+instrument: ctdmo-ghqr_recovered
+pairs:
+- [SBE37-IM_20141231_2014_12_31.hex, SBE37-IM_20141231_2014_12_31.yml]
+resource: ctdmo_ghqr/sio/resource
